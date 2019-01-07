@@ -1,0 +1,13 @@
+{
+    "files": {
+        "README.md": "6254c21f8899e84b595af43250d463b0cc39634262c31436e173dfd1daa0e5e5",
+        "index.js": "aa46d28c4c7f0d5c2e4ff55030c380d5a957697f4f277e840717a0e57a363a85",
+        "module.json": "e8f88af36b1ebe4910088b2cbe84f58aa91feb1f9582adeb3b43eaadc7dbf248",
+        "settings.json": "d5f45c30069e4de4fd2b04f054a51d1a4250ddfaf92ee71b46749d121b55723b"
+    },
+    "defs": {
+        "S_FRIEND_LIST": 1,
+        "S_UPDATE_FRIEND_INFO": 1,
+        "S_WHISPER": 2
+    }
+}

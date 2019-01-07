@@ -1,0 +1,12 @@
+{
+    "author": "PsykoDev",
+    "description": "",
+    "disableAutoUpdate": false,
+    "name": "tera-colorful-whispers",
+    "options": {
+        "reloadable": false
+    },
+    "servers": ["https://raw.githubusercontent.com/PsykoDev/tera-colorful-whispers/master/"],
+    "supportUrl": "https://github.com/PsykoDev/tera-colorful-whispers/blob/master/README.md",
+    "version": "2.02.04"
+}

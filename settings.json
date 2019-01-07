@@ -1,0 +1,28 @@
+{
+  "globallyEnabled": true,
+  "me": {
+    "enabled": true,
+    "color": "#FF00FF"
+  },
+  "friends": {
+    "enabled": true,
+    "color": "#27AEE3"
+  },
+  "others": {
+    "enabled": true,
+    "color": "#009900"
+  },
+  "particular": {
+    "enabled": false,
+    "characters": [
+      {
+        "name": "singleNameExample",
+        "color": "#hexcolorhere"
+      },
+      {
+        "name": ["ArraY", "oF", "NameS", "ExamplE"],
+        "color": "#hexcolorhere"
+      }
+    ]
+  }
+}
